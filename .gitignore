@@ -1,3 +1,6 @@
+# Not including the test instruction and data file
+Home_Credit_Risk_Business_Analyst_Test.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
