@@ -29,3 +29,9 @@ This repo hold my notebook for the technical test from Home Credit
     # install dependencies
     pip install -r requirements.txt
     ```
+
+## Useful resources
+
+1. <https://www.kaggle.com/code/beatafaron/complete-credit-risk-modeling-1-eda>;
+2. <https://www.kaggle.com/code/beatafaron/2-credit-risk-modeling-scorecard-woe-iv>;
+3. <https://www.kaggle.com/code/beatafaron/3-complete-credit-risk-modeling-psi>
